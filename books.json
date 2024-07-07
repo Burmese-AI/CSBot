@@ -1,0 +1,65 @@
+{
+   "books": [
+     {
+       "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+       "author": "Robert C. Martin",
+       "description": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way. Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship. Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code ‘on the fly’ into a book that will instill within you the values of a software craftsman and make you a better programmer—but only if you work at it.",
+       "category": "programming"
+     },
+     {
+       "title": "Introduction to the Theory of Computation",
+       "author": "Michael Sipser",
+       "description": "Michael Sipser's text on the theory of computation is an excellent introduction to the subject. It covers a broad range of topics including automata theory, computability theory, and complexity theory, with clear explanations and a good selection of exercises.",
+       "category": "computer science"
+     },
+     {
+       "title": "The Pragmatic Programmer: Your Journey to Mastery",
+       "author": "Andrew Hunt, David Thomas",
+       "description": "One of the most significant books in the history of software development, The Pragmatic Programmer: Your Journey to Mastery, provides practical advice on a range of topics such as personal responsibility, career development, and the principles of programming. It is widely regarded as a must-read for every programmer.",
+       "category": "Programming"
+     },
+     {
+       "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+       "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+       "description": "Design Patterns: Elements of Reusable Object-Oriented Software is a landmark book that catalogues and describes 23 classic software design patterns. It offers practical solutions to common problems in software design, providing a shared vocabulary for designers.",
+       "category": "programming"
+     },
+     {
+       "title": "Artificial Intelligence: A Modern Approach",
+       "author": "Stuart Russell, Peter Norvig",
+       "description": "Artificial Intelligence: A Modern Approach offers a comprehensive introduction to the theory and practice of artificial intelligence. The book covers a wide range of topics including machine learning, natural language processing, robotics, and problem-solving.",
+       "category": "computer science"
+     },
+     {
+       "title": "Structure and Interpretation of Computer Programs",
+       "author": "Harold Abelson, Gerald Jay Sussman, Julie Sussman",
+       "description": "Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past decade. This long-awaited revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have expanded the introduction to the language.",
+       "category": "computer science"
+     },
+     {
+       "title": "You Don't Know JS: Scope & Closures",
+       "author": "Kyle Simpson",
+       "description": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. As part of the 'You Don’t Know JS' series, this concise yet in-depth guide focuses on new asynchronous features and performance techniques—including Promises, generators, and Web Workers.",
+       "category": "programming"
+     },
+     {
+       "title": "Computer Networking: A Top-Down Approach",
+       "author": "James F. Kurose, Keith W. Ross",
+       "description": "Computer Networking: A Top-Down Approach is a popular textbook that explains how computer networks work. It provides a clear and comprehensive introduction to networking, covering both theoretical and practical aspects of the field.",
+       "category": "computer science"
+     },
+     {
+       "title": "Code: The Hidden Language of Computer Hardware and Software",
+       "author": "Charles Petzold",
+       "description": "Code: The Hidden Language of Computer Hardware and Software is an engaging exploration of the complex world of computing. The book delves into the history and inner workings of computer systems, making it accessible to readers with varying levels of technical expertise.",
+       "category": "computer science"
+     },
+     {
+       "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+       "author": "Marijn Haverbeke",
+       "description": "Eloquent JavaScript dives deep into the JavaScript language to show programmers how to write elegant, effective JavaScript code. This book is essential for developers who want to understand JavaScript on a deeper level and learn how to write high-quality code.",
+       "category": "programming"
+     }
+   ]
+ }
+ 
